@@ -12,7 +12,7 @@ public class HomeWork {
 
 
     public static void main(String[] args) {
-        System.out.println(formula(2.0f, 3.5f, 4.8f, 2.4f ));
+        System.out.println(formula(2.0f, 3.5f, 4.8f, 2.4f));
         System.out.println(summaInInterval(3, 19));
         isPositive(-0);
         System.out.println(isNegative(-50));
@@ -23,26 +23,30 @@ public class HomeWork {
     public static double formula(float a, float b, float c, float d) {
         return a * (b + (c / d));
     }
-    public static boolean summaInInterval (int a, int b) {
 
-        return (a + b) >= 10 && (a + b)  <= 20;
+    public static boolean summaInInterval(int a, int b) {
+        int k = a + b;
+        return k >= 10 && k <= 20;
     }
-    public static void isPositive (int m) {
-        if (m < 0 ) {
+
+    public static void isPositive(int m) {
+        if (m < 0) {
             System.out.println("Число " + m + " отрицательное.");
-        }else System.out.println("Число " + m + " положительное.");
+        } else System.out.println("Число " + m + " положительное.");
     }
-    public static boolean isNegative (int n) {
+
+    public static boolean isNegative(int n) {
         return n < 0;
     }
-    public static void text (String name){
+
+    public static void text(String name) {
         System.out.println("Привет, " + name + "!");
     }
 
-    public static void isYear (int year) {
+    public static void isYear(int year) {
         if ((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0))) {
-            System.out.println("Год "+ year + " високосный.");
-        }else  System.out.println("Год "+ year + " не високосный.");
+            System.out.println("Год " + year + " високосный.");
+        } else System.out.println("Год " + year + " не високосный.");
     }
 }
 
