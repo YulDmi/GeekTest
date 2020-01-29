@@ -165,7 +165,7 @@ public class TicTacToe {
         return false;
     }
 
-    private static Boolean getBooleanLeftDiagonal(char dot, int i, int j) {
+    private static Boolean getBooleanRightDiagonal(char dot, int i, int j) {
         count++;
         while (true) {
             if (isCellValid(++i, --j, dot)) {
@@ -179,7 +179,7 @@ public class TicTacToe {
         return false;
     }
 
-    private static Boolean getBooleanRightDiagonal(char dot, int i, int j) {
+    private static Boolean getBooleanLeftDiagonal(char dot, int i, int j) {
         count++;
         while (true) {
             if (isCellValid(++i, ++j, dot)) {
