@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c52b0ea4-cb8b-46f0-9497-3ad673b3a99e" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/level2/Task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/level2/Task7.java" afterDir="false" />
+    <list default="true" id="c52b0ea4-cb8b-46f0-9497-3ad673b3a99e" name="Default Changelist" comment="class Worker">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GeekTest/level1/HomeWork.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GeekTest/level1/HomeWork.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson_2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,7 +39,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1WN1SITPeB8vkQZ9aYFyTjUe8I8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -51,16 +52,22 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/JavaRushTasks/3.JavaMultithreading/src" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../market" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.Task7">
-    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.HomeWork" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\GeekTest\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyPanel">
+    <configuration name="ButtonDrawExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level8.ButtonDrawExample" />
       <module name="GeekTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level1.*" />
+          <option name="PATTERN" value="level8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.HomeWork2" />
+    <configuration name="DrawingRing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level8.DrawingRing" />
       <module name="GeekTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="level8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.Task6" />
+    <configuration name="MyPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level8.MyPanel" />
       <module name="GeekTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="level8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,26 +101,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.Task7" />
+    <configuration name="MyWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level8.MyWindow" />
       <module name="GeekTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="level8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestFrame" />
+      <module name="GeekTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.HomeWork2" />
-        <item itemvalue="Application.HomeWork" />
-        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.TestFrame" />
+        <item itemvalue="Application.MyWindow" />
+        <item itemvalue="Application.MyPanel" />
+        <item itemvalue="Application.DrawingRing" />
+        <item itemvalue="Application.ButtonDrawExample" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +189,84 @@
       <option name="project" value="LOCAL" />
       <updated>1579347413865</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="game_1">
+      <created>1579629568394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579629568394</updated>
+    </task>
+    <task id="LOCAL-00007" summary="game1_1">
+      <created>1579631622415</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579631622415</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test tictac центральная диагональ">
+      <created>1579953813879</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579953813879</updated>
+    </task>
+    <task id="LOCAL-00009" summary="tictac без доработки интелекта">
+      <created>1580048889535</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580048889535</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test tictac центральная диагональ">
+      <created>1580315051832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580315051832</updated>
+    </task>
+    <task id="LOCAL-00011" summary="class Worker">
+      <created>1580316712595</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580316712595</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Наследование">
+      <created>1580548527769</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580548527769</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Накорми всех">
+      <created>1581149652466</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1581149652466</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Крестики нолики 3х3">
+      <created>1581843305693</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1581843305693</updated>
+    </task>
+    <task id="LOCAL-00015" summary="homework">
+      <created>1608569843130</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608569843130</updated>
+    </task>
+    <task id="LOCAL-00016" summary="lesson1">
+      <created>1608570114780</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608570114780</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +274,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -194,84 +287,38 @@
     <MESSAGE value="test Homework" />
     <MESSAGE value="homeWork to lesson 2" />
     <MESSAGE value="корявенько, но без поиска в интернете и без доп. массива" />
-    <option name="LAST_COMMIT_MESSAGE" value="корявенько, но без поиска в интернете и без доп. массива" />
+    <MESSAGE value="game_1" />
+    <MESSAGE value="game1_1" />
+    <MESSAGE value="tictac без доработки интелекта" />
+    <MESSAGE value="test tictac центральная диагональ" />
+    <MESSAGE value="class Worker" />
+    <MESSAGE value="Наследование" />
+    <MESSAGE value="Накорми всех" />
+    <MESSAGE value="Крестики нолики 3х3" />
+    <MESSAGE value="homework" />
+    <MESSAGE value="lesson1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="545" y="42" key="CommitChangelistDialog2" timestamp="1579347412668">
+    <state x="691" y="300" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608570078015">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="545" y="42" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579347412668" />
-    <state x="689" y="212" key="FileChooserDialogImpl" timestamp="1579365385367">
+    <state x="691" y="300" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608570078015" />
+    <state x="545" y="42" key="CommitChangelistDialog2" timestamp="1608570113666">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="212" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579365385367" />
-    <state x="718" y="468" key="Github.CreatePullRequestDialog" timestamp="1579328800595">
+    <state x="545" y="42" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608570113666" />
+    <state x="690" y="213" key="FileChooserDialogImpl" timestamp="1608655809461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="718" y="468" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579328800595" />
-    <state x="817" y="385" width="310" height="269" key="Github.ShareDialog" timestamp="1579326859004">
+    <state x="690" y="213" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608655809461" />
+    <state x="452" y="168" key="Vcs.Push.Dialog.v2" timestamp="1608570116893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="817" y="385" width="310" height="269" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579326859004" />
-    <state x="733" y="155" key="Github.UntrackedFilesDialog" timestamp="1579022247849">
+    <state x="452" y="168" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608570116893" />
+    <state x="738" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608655710305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="733" y="155" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579022247849" />
-    <state width="1431" height="269" key="GridCell.Tab.0.bottom" timestamp="1579549250739">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1431" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579549250739" />
-    <state width="1431" height="269" key="GridCell.Tab.0.center" timestamp="1579549250739">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1431" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579549250739" />
-    <state width="1431" height="269" key="GridCell.Tab.0.left" timestamp="1579549250739">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1431" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579549250739" />
-    <state width="1431" height="269" key="GridCell.Tab.0.right" timestamp="1579549250739">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1431" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579549250739" />
-    <state width="1865" height="335" key="GridCell.Tab.1.bottom" timestamp="1579345283204">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="335" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579345283204" />
-    <state width="1865" height="335" key="GridCell.Tab.1.center" timestamp="1579345283204">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="335" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579345283204" />
-    <state width="1865" height="335" key="GridCell.Tab.1.left" timestamp="1579345283204">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="335" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579345283204" />
-    <state width="1865" height="335" key="GridCell.Tab.1.right" timestamp="1579345283204">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1865" height="335" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579345283204" />
-    <state x="352" y="72" key="SettingsEditor" timestamp="1579022039698">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="352" y="72" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579022039698" />
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2" timestamp="1579347418947">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="452" y="183" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579347418947" />
-    <state x="514" y="287" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1579328799182">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="514" y="287" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579328799182" />
-    <state x="738" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579032674602">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="738" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579032674602" />
-    <state x="752" y="160" key="git4idea.merge.GitMergeDialog" timestamp="1579328959395">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="752" y="160" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579328959395" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1579332630639">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579332630639" />
+    <state x="738" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608655710305" />
   </component>
 </project>
